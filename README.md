@@ -1,6 +1,6 @@
 # Patika.dev First Web Page Task
 
-This is a simple HTML about page including details of my personal and professional life. I have created this repository as a task for the HTML course in the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
+This is a simple HTML About Page including details of my personal and professional life. I have created this repository as a task for the HTML course in the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
 
 ## Preview
 
