@@ -1,10 +1,10 @@
 # Patika.dev First Web Page Task
 
-I have created this repository as a task for the HTML course in the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
+This is a simple HTML about page including details of my personal and professional life. I have created this repository as a task for the HTML course in the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
 
 ## Preview
 
-![PatikaDevFirstPagePreview](https://lh3.googleusercontent.com/yzhh639iDfN0qnT74G17u6C95UtMagVRDeblQQ90rGScC1NeDtEbMuEKq64e9k-Pfq-zSxI4eAcGcWcZjIr2m5rkhOoEswHACFeueUm1zJ_uiE0_8CXR9OpvRKjQfVYTaHeWywuTRFM=w2400)
+![PatikaDevFirstPagePreview](https://lh3.googleusercontent.com/F3Q1I0gXVJk4plxLQzNOvR44GkxZjtvTGhaBneGFOkRFwf99qVblYysoV77Uspiik0zfTo5q4ReCqG0XK1zDJjb_0Oo0ooCGZk7xrs686VU2gnjgPZl-F2iW9Bad7gwuKy9VhEhGiFQ=w2400)
 
 ## My patika.dev profile
 [Hulya Martli](https://app.patika.dev/hulyamartli)
