@@ -25,13 +25,13 @@ This is a simple HTML About Page including details of my personal and profession
 
 ### Task 2 (includes 3 HTML pages)
 #### Index
-![IndexPreview](https://lh3.googleusercontent.com/MVEgz7tRfCVJbbMJ9UhcL5foNOUna7wRY6WhGfp1mqK5sb9APipIJdcJY0ifbFIjNU56-7DJlXupB4RbcLmyT7SWRXf4eHhtYFu5i1wdOvUzHeW4_UqAVBYUFVlfhx-DNj9NHe_wvfY=w2400)
+![IndexPreview](https://lh3.googleusercontent.com/iZ7tzNOuck-LfB4GLO9S9_W82BGd-2DGdzPmmlnnAel-n3DhFV0543cwvn9WM-mGteI8tGXUpjNzZ6OpdCgUoi_aMHgnXgYwcrZSB_KsjV4NTihlCcpx96OzWIe6I9gekqH8fERa1Xo=w2400)
 
 #### More About Me
-![MoreAboutMePreview](https://lh3.googleusercontent.com/z-WWTAa_Z0au3gzz_IKJlSEnWZ5Cm6zHuBF4rh1ueUdNyahRUh-34LBzFR0XSoOc-l2v542gW59xMQZMgzb91MQWR8SWijf7YTh4SAJuQkGAP6GaKUpZtHdKEbAkqAI_upzhkHfTCng=w2400)
+![MoreAboutMePreview](https://lh3.googleusercontent.com/gCuGFG6l_o5REPbvrSO7i8xE_6SIusSrYSdvNaKe0xD8lFG8qVD0aRZaM0QNhyEO3dtf1j7bF1I_EHfzKmpKqZl4mx8lbKYCXCR3fYX4pNKIBdF90BkpnXfhN7YquyhyorvoXR0ZXIs=w2400)
 
 #### Contact
-![ContactPreview](https://lh3.googleusercontent.com/dVM4A7Tvf4TvPgf4RtD4AdQOiB4nQ8R2WhrcpUvNnJJteA6ZY4qeRA9hZItkJ3lZkuQJVI-2dSw16WivG-RG1x54gZnx3GiRnxP1Ip3yYLX--yW_r8ptGAR4jK0bGKOu1dLw1w4OLl0=w2400)
+![ContactPreview](https://lh3.googleusercontent.com/ivHTHDoxZyHmGDUulbu27FcNdElhHwqsTZtlH5lCiyU_K7FfeSRQy6NjjuN6IWtW6VzpbKR3YGO0B3UQhb8MYyawCr8yx4tVvUFR_Qs1NH2V_DsuPkHUYMJZeBTPtzgF2NwHIZ2l2Ms=w2400)
 
 ## My patika.dev profile
 [Hulya Martli](https://app.patika.dev/hulyamartli)
