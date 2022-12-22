@@ -42,7 +42,7 @@ This is a simple HTML About Page including details of my personal and profession
 1. Software and Coding Basics
 2. Visual Studio Code
 3. Git
-4. HTML
+4. **HTML**
 5. CSS
 6. Bootstrap
 7. Data Structures and Algorithms
