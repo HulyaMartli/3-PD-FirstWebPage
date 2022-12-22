@@ -33,10 +33,11 @@ This is a simple HTML About Page including details of my personal and profession
 #### Contact
 ![ContactPreview](https://lh3.googleusercontent.com/ivHTHDoxZyHmGDUulbu27FcNdElhHwqsTZtlH5lCiyU_K7FfeSRQy6NjjuN6IWtW6VzpbKR3YGO0B3UQhb8MYyawCr8yx4tVvUFR_Qs1NH2V_DsuPkHUYMJZeBTPtzgF2NwHIZ2l2Ms=w2400)
 
-## My patika.dev profile
-[Hulya Martli](https://app.patika.dev/hulyamartli)
+## License
 
-### [patika.dev - Beginner Frontend Web Development Path](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## [patika.dev - Beginner Frontend Web Development Path](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 
 #### CONTENT:
 1. Software and Coding Basics
@@ -48,8 +49,9 @@ This is a simple HTML About Page including details of my personal and profession
 7. Data Structures and Algorithms
 8. JavaScript
 
+### My patika.dev profile
+[Hulya Martli](https://app.patika.dev/hulyamartli)
+
 ![patika.dev logo](https://kpm.metu.edu.tr/wp-content/uploads/2022/03/patikaLogo-2.png)
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
