@@ -53,5 +53,3 @@ This is a simple HTML About Page including details of my personal and profession
 [Hulya Martli](https://app.patika.dev/hulyamartli)
 
 ![patika.dev logo](https://kpm.metu.edu.tr/wp-content/uploads/2022/03/patikaLogo-2.png)
-
-
