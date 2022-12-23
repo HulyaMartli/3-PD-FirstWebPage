@@ -23,32 +23,19 @@ This is a simple HTML About Page including details of my personal and profession
 * Add these list items IMDB and Goodreads links
 * Use block, inline elements
 
-#### Task 2 Preview (includes 3 HTML pages)
-
-##### Index Page
-![IndexPreview](https://lh3.googleusercontent.com/iZ7tzNOuck-LfB4GLO9S9_W82BGd-2DGdzPmmlnnAel-n3DhFV0543cwvn9WM-mGteI8tGXUpjNzZ6OpdCgUoi_aMHgnXgYwcrZSB_KsjV4NTihlCcpx96OzWIe6I9gekqH8fERa1Xo=w2400)
-
 ---
 
-<<<<<<< HEAD
-### Task 2 (includes 3 HTML pages)
-#### Index
+#### Task 2  Preview (includes 3 HTML pages)
+##### Index Page
 ![IndexPreview](https://lh3.googleusercontent.com/BDYZXze2xofwe6i-3Mmm-D-h8BZSweuFbcUFVE09SqFBMoFrkxhriCvTQNFjtzn7bFJ9JCXswwo947ly1QFqtQvm3QLEgZDYX1CqSFlRN9Bc3xxvkBOzr8NYJcg6eW9X9EoqlPY7ydc=w2400)
 
-#### More About Me
+##### More About Me Page
 ![MoreAboutMePreview](https://lh3.googleusercontent.com/BRpimZIg9DYdV65asT32t1gTuo_vSpeA87jl6JWelr4-3_-Pni8O4O7ZlX1Wfek7jOri1qRNhVtci0viRwI4RWb_S9cFBLN8JiXKF-za2kj2TVL25HK9ItBHEBJYvnSs3Dn0hn_7BFk=w2400)
 
-#### Contact
+##### Contact Page
 ![ContactPreview](https://lh3.googleusercontent.com/8Q0pQV2_QhkwAIqGM96-2fnm_fP6MCl-r4AeT68EL0jufRnynX4L-_-dnpYyCd_uVfYsWWfRKhLb9RkJp-P7Xt6Y-u9UNK1c5AkZf9F5-_zha8dQUydNyLxZbLJPLQRme8svnpnslEw=w2400)
-=======
-##### More About Me Page
-![MoreAboutMePreview](https://lh3.googleusercontent.com/gCuGFG6l_o5REPbvrSO7i8xE_6SIusSrYSdvNaKe0xD8lFG8qVD0aRZaM0QNhyEO3dtf1j7bF1I_EHfzKmpKqZl4mx8lbKYCXCR3fYX4pNKIBdF90BkpnXfhN7YquyhyorvoXR0ZXIs=w2400)
 
 ---
-
-##### Contact Page
-![ContactPreview](https://lh3.googleusercontent.com/ivHTHDoxZyHmGDUulbu27FcNdElhHwqsTZtlH5lCiyU_K7FfeSRQy6NjjuN6IWtW6VzpbKR3YGO0B3UQhb8MYyawCr8yx4tVvUFR_Qs1NH2V_DsuPkHUYMJZeBTPtzgF2NwHIZ2l2Ms=w2400)
->>>>>>> 2782a7fb175ccd1aec6bb2d8b6a79fd2a3365008
 
 ## License
 
